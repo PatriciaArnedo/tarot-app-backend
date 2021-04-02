@@ -1,31 +1,21 @@
-# README
+<h1>Third Eye Tarot</h1>
 
-A HUGE thank you to Nicholas Stano for help on auth/login:
-https://medium.com/javascript-in-plain-english/login-front-end-back-end-on-react-rails-5a9de1d6427f
+<h2>Overview</h2>
+Welcome to Third Eye Tarot! Third Eye Tarot is a web app that brings the fun and mystery of tarot readings to everyone, even if you've never touched a deck or know how the cards work! 
 
+Users can ask a question, draw cards, save a reading, and save notes on their reading in their account. 
 
+Here is a sample of the tarot reading interface:
 
+<img src=https://i.imgur.com/E2fPniH.gif/>
 
+<h3>User Stories</h3>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. A user can Sign up for an account and log in/log out
+2. A user can create a reading
+3. A user can delete a reading
+4. A user can view previously created readings
+5. A user can edit readings
 
-Things you may want to cover:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
